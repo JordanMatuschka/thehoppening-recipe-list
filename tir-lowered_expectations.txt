@@ -1,0 +1,47 @@
+ Lowered Expectations
+
+an All Grain American IPA by Tir
+(If by American IPA we mean a Pilsner/Kölsch hybrid with American Hops)
+
+Fermentables
+Amount  Fermentable     Use
+6.5 lb  2-Row (US)  Mash
+5.0 lb  Pilsner (US)    Mash
+1.0 lb  Carapils (DE)   Boil
+0.5 lb  Caramel/Crystal 10L (US)    Mash
+
+ Hops
+Amount  Hop     Time    Use
+0.75 oz     Citra (US)  60 min  Boil
+0.75 oz     Centennial (US)     60 min  Boil
+0.25 oz     Centennial (US)     5 min   Boil
+0.25 oz     Citra (US)  5 min   Boil
+
+Yeasts
+Name    Lab/Product
+German Ale/Kölsch Yeast     White Labs WLP029
+
+Stats
+Batch & Boil
+
+    Batch Size
+    5.5 gal
+    Boil Time
+    60 min
+
+Properties
+
+    OG
+    1.065
+    FG
+    1.016
+    IBU
+    55
+    ABV
+    6.4%
+    Color
+    3 SRM
+    Balance
+    Very Bitter
+
+
